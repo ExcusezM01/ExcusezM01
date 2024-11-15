@@ -15,4 +15,4 @@ Hello, my name is Daniel! I'm a bigginer manual QA Engineer. A while ago, I was 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/excusez_mo1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0066ff)](https://www.linkedin.com/in/daniel-shiriyazdanov-395228228/)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=cc000)](<a href="mailto:shiriyazdanov.d.r@gmail.com">)
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=cc000)](<button onclick="window.location.href='mailto:shiriyazdanov.d.r@gmail.com?subject=Hello&body=I%20would%20like%20to%20contact%20you';">)
