@@ -1,5 +1,8 @@
 ![Header](https://github.com/ExcusezM01/ExcusezM01/blob/main/assets/Screenshot_2.png) 
 
+## About me:
+Hello, my name is Daniel! I'm a bigginer manual QA Engineer. A while ago, I was involved in testing measurement instruments in the oil and gas industry and visualization systems.
+
 ## Laguages and Tools:
 ![Postman](https://img.shields.io/badge/-POSTMAN-cccccc?style=for-the-badge&logo=postman)
 ![ReadyApi](https://img.shields.io/badge/-ReadyAPI-ffcc00?style=for-the-badge&logo=ReadyAPI) 
@@ -9,4 +12,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0099ff?style=for-the-badge&logo=&logoColor=0066ff)
 ![Python](https://img.shields.io/badge/-Python-ffff66?style=for-the-badge&logo=python)
 
-Contact me
+## Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/excusez_mo1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0066ff)](https://www.linkedin.com/in/daniel-shiriyazdanov-395228228/)
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=cc000)](<a href="mailto:shiriyazdanov.d.r@gmail.com">)
