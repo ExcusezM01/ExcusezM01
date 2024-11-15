@@ -16,5 +16,3 @@ Hello, my name is Daniel! I'm a bigginer manual QA Engineer. A while ago, I was 
 [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/excusez_mo1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0066ff)](https://www.linkedin.com/in/daniel-shiriyazdanov-395228228/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=cc000)](mailto:shiriyazdanov.d.r@gmail.com)
-
-[Send me an email](mailto:shiriyazdanov.d.r@gmail.com)
