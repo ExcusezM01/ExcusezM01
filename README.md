@@ -17,4 +17,5 @@ Hello, my name is Daniel! I'm a bigginer manual QA Engineer. A while ago, I was 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0066ff)](https://www.linkedin.com/in/daniel-shiriyazdanov-526455339/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=cc000)](mailto:shiriyazdanov.d.r@gmail.com)
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excusezm01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
